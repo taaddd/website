@@ -113,6 +113,11 @@ blockquote {
 	margin-top: 0;
 }
 
+p2.pos_left {
+    position: relative;
+    left: 20px;
+}
+
 /* Layout
 ----------------------------------------------------------------------------- */
 .header {
